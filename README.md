@@ -65,7 +65,7 @@ El **Juego del Amigo Secreto** es una aplicación interactiva diseñada para rea
 
 ---
 ## Otra forma de su uso
-¡Puedes tambien entrar directamente la pagina si no quieres clonar el proyecto! aqui 👀:<a href=""></a>
+¡Puedes tambien entrar directamente la pagina si no quieres clonar el proyecto! aqui 👀:<a href="https://franklin-programmer.github.io/juego-amigo-secreto/">Juego de amigo secreto🤭</a>
 ---
 ## Reconocimientos 🌟
 Este proyecto fue realizado con el apoyo de <a href ="https://www.aluracursos.com/">Alura Latam</a>, una plataforma dedicada al aprendizaje en tecnología y desarrollo de habilidades digitales. Gracias por la guía y recursos brindados. 🙌
@@ -74,4 +74,4 @@ Este proyecto fue realizado con el apoyo de <a href ="https://www.aluracursos.co
 ## Autor
  
  Franco Freddi Veron
- Desarrollador/a entusiasta. Contacto: ffreddi07@gmail.com
+ Desarrollador entusiasta. Contacto: ffreddi07@gmail.com
