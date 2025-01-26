@@ -26,4 +26,16 @@ function mostrarAmigos() {
 
     // Limpio la lista existente para evitar duplicados
     lista.innerHTML = "";
+      // Recorro el arreglo listaDeAmigos
+        for (let i = 0; i < listaDeAmigos.length; i++) {
+        // Crea un nuevo elemento <li>
+        let li = document.createElement('li');
+
+        // Establesco el texto del <li> con el nombre del amigo
+        li.textContent = listaDeAmigos[i];
+
+        // Agrego el <li> a la lista
+        lista.appendChild(li); 
+    }
 }
+
