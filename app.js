@@ -39,3 +39,21 @@ function mostrarAmigos() {
     }
 }
 
+function sortearAmigo() {
+    // Verifico si hay amigos en la lista
+   // Verifico si la lista de amigos está vacía
+if (listaDeAmigos.length === 0) {
+    // Muestro una alerta si la lista está vacía
+    alert('Por favor, agrega amigos antes de sortear');
+    return;
+}
+
+// Genero un índice aleatorio
+let indiceAleatorio = Math.floor(Math.random() * listaDeAmigos.length);
+
+// Obtengo el amigo sorteado
+let amigoSorteado = listaDeAmigos[indiceAleatorio];
+
+// Actualizo el contenido del elemento de resultado
+document.getElementById('resultado').innerHTML = `Amigo sorteado: ${amigoSorteado}`;
+}
